@@ -1,0 +1,114 @@
+.site_btn {
+    background-color: #21B573;
+    border-radius: 33px;
+    padding: 5px 20px;
+    font-weight: 600;
+    color: #FFFFFF;
+}
+
+.nav-item {
+    font-weight: 700;
+}
+
+.green-overlay {
+    color: #21B573;
+}
+
+.nav-head {
+    background-color: #F0FFF0;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.header {
+    padding-top: 3%;
+    background-color: #F0FFF0;
+}
+
+.red_overlay {
+    color: #FD511A;
+}
+
+.banner {
+    padding: 40px 20px;
+}
+
+.des_area {
+    background-color: #F8FFFB;
+}
+
+.des_area,
+.focus_item {
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px 20px;
+    margin-bottom: 5%;
+}
+
+.quoto_sec {
+    padding-left: 15%;
+}
+
+.focus_item {
+    box-shadow: 5px 5px 15px lightgray;
+}
+
+.gap_func {
+    margin-right: 10px;
+}
+
+.course .card-deck {
+    margin-top: 5%;
+}
+
+.setup_rule {
+    padding: 10%;
+}
+
+section {
+    margin-bottom: 5%;
+}
+
+.card-footer {
+    border-top: none;
+    background-color: white;
+}
+
+.card {
+    padding: 15px;
+    border-radius: 18px;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    background-color: #282531;
+    color: #F0FFF0;
+}
+
+h3 {
+    margin-top: 3%;
+    text-align: center;
+}
+
+.footer_con {
+    padding-top: 3%;
+    text-decoration: none;
+}
+
+small {
+    padding: 5% 0%;
+}
+
+.col-md-2 a {
+    color: #FFFFFF;
+}
+
+.card_footer_ltr {
+    font-size: small;
+}
